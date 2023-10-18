@@ -1,0 +1,49 @@
+.fundo{
+    background-color: rgb(255, 203, 242);
+    border:0px;
+    width: 100%;
+    height: 900px;
+    position: relative;
+    overflow: hidden;
+    
+    
+    
+    }
+    .titulo{
+        color: rgb(175, 0, 190);
+        position: absolute;
+        left: 175px;
+        top: 10px;
+        font: 100 80px "Gidugu", sans-serif; 
+    }
+    
+    
+    .apre{
+    
+    position: absolute;
+        left: 25px;
+        top: 100px;
+        bottom: 700px;
+    
+    
+    
+    
+    
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
