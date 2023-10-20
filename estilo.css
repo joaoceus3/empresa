@@ -28,23 +28,62 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: absolute;
         left: 25px;
-        top: 170px;
+        top: 155px;
        width: 950px;
     }
     
     
     .modelo1{
         position: absolute;
-        left: 500px;
-        top: 60px;
-       width: 300px;
+        left: 145px;
+        top: 333px;
+       width: 330px;
 
     }
     
     
+    .moldura{
+        position: absolute;
+left: 36px;
+top: 195px;
+width: 600px;
+    }
     
-    
-    
+    .top{
+        color: rgb(175, 0, 190);
+        font: 1 45px "Gidugu", sans-serif;
+        position: absolute;
+        left: 40px;
+        top: 255px;
+        width: 362px;
+    }
+
+
+.sobre{
+    color: rgb(175, 0, 190);
+font: 25px "Gidugu", sans-serif;
+position: absolute;
+left: 7px;
+top: 15px;
+width: 352px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
     
