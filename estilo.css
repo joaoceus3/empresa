@@ -12,9 +12,24 @@
     position: relative;
     overflow: hidden;
     
-    
-    
+
     }
+
+
+.hist{
+    color: rgb(175, 0, 190);
+    font: 100 80px "Gidugu", sans-serif; 
+
+
+}
+
+
+
+
+
+
+
+
     .titulo{
         color: rgb(175, 0, 190);
         position: absolute;
@@ -59,6 +74,17 @@
 
     }
 
+    .sobre{
+        color: rgb(175, 0, 190);
+    font: 25px "Gidugu", sans-serif;
+    position: absolute;
+    left: 7px;
+    top: 15px;
+    width: 352px;
+    
+    }
+    
+    
 
 
 
@@ -145,17 +171,6 @@
         top: 255px;
         width: 362px;
     }
-
-
-.sobre{
-    color: rgb(175, 0, 190);
-font: 25px "Gidugu", sans-serif;
-position: absolute;
-left: 7px;
-top: 15px;
-width: 352px;
-
-}
 
 
 
