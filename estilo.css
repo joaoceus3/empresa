@@ -31,8 +31,45 @@
         top: 155px;
        width: 950px;
     }
+
+
+    .seja{
+        color: rgb(175, 0, 190);
+        font: 10 70px "Gidugu", sans-serif;
+        position: absolute;
+        left: 1240px;
+        top: 126px;
+        width: 892px;
+    }
     
-    
+    .sejadescri{
+
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        position: absolute;
+        left: 1306px;
+        top: 233px;
+        width: 460px;
+        font-size: 25px;
+
+
+
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
     .modelo1{
         position: absolute;
         left: 145px;
@@ -63,6 +100,42 @@
         top: 670px;
         width: 270px;
     }
+
+
+    .modelo5{
+        position: absolute;
+        left: 477px;
+        top: 670px;
+        width: 189px;
+    }
+
+    .modelo6{
+        position: absolute;
+        left: 677px;
+        top: 670px;
+        width: 175px;
+    }
+
+
+
+    .modelo7{
+        position: absolute;
+        left: 862px;
+        top: 670px;
+        width: 320px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    
     
     .top{
         color: rgb(175, 0, 190);
