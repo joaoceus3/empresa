@@ -8,7 +8,7 @@
     background-color: rgb(255, 203, 242);
     border:0px;
     width: 100%;
-    height: 5000px;
+    height: 1300px;
     position: relative;
     overflow: hidden;
     
@@ -19,8 +19,42 @@
 .hist{
     color: rgb(175, 0, 190);
     font: 100 80px "Gidugu", sans-serif; 
+}
 
 
+
+.contato{
+
+    color: rgb(175, 0, 190);
+    font: 1 45px "Gidugu", sans-serif;
+    position: absolute;
+    left: 40px;
+    top: 1060px;
+    width: 362px;
+}
+
+
+.num{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    position: absolute;
+    left: 310px;
+    top: 1090px;
+   width: 10px;
+
+
+}
+
+
+.insta{
+
+    position: absolute;
+    left: 836px;
+top: 1055px;
+width: 171px;
+
+    
 }
 
 
